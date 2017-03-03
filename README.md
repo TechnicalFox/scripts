@@ -1,5 +1,5 @@
 # scripts
-Collection of quick scripts I wrote. All licenced under MIT licence, so do whatever you want with them...
+Collection of small scripts I wrote. All licenced under MIT licence, so do whatever you want with them...
 
 ===
 encrypt.sh

@@ -18,4 +18,4 @@ exact_duplicate_delete.py
 - python script that parses a directory and all sub-directories, and deletes any files it finds who's hash exactly match
   an file that it already hashed. it uses SHA256 as its hashing algorithm. it's currently not scalable, as it just stores them in a
   list, which would use a lot of memory in large directory trees, but I plan on making it use a sqlite3 db in the future.
-  
+- usage: ./exact_duplicate_delete.py (path to directory)

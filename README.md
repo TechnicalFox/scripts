@@ -12,6 +12,7 @@ decrypt.sh
 
 purge.sh
 - small bash script that overwrites specified files with random data using dd, then removes them.
+- basically the same thing as something you can do using shred, which i didn't know existed until just now :p
 - usage: ./purge (file to purge) [more files to purge]...
 
 exact_duplicate_delete.py
